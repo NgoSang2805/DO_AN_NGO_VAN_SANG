@@ -10,8 +10,16 @@ family_histories = np.random.choice(['Có', 'Không'], num_patients)
 white_blood_cells = np.random.randint(5000, 15000, num_patients)
 blood_glucose_levels = np.round(np.random.uniform(4.5, 8.0, num_patients), 1)
 test_results = np.random.choice(['Bình thường', 'Bất thường'], num_patients)
-symptoms = np.random.choice(['Mệt mỏi', 'Giảm cân', 'Đau ngực', 'Khó thở', 'Ho kéo dài', 'Sốt', 'Chán ăn'], num_patients)
+symptoms_list = ['Mệt mỏi', 'Giảm cân', 'Đau ngực', 'Khó thở', 'Ho kéo dài', 'Sốt', 'Chán ăn']
 diagnoses = np.random.choice([0, 1], num_patients)
+
+# Hàm tạo triệu chứng ngẫu nhiên
+def generate_symptoms(symptoms_list):
+    num_symptoms = np.random.randint(1, len(symptoms_list) + 1)
+    return ', '.join(np.random.choice(symptoms_list, num_symptoms, replace=False))
+
+# Tạo danh sách triệu chứng cho mỗi bệnh nhân
+symptoms = [generate_symptoms(symptoms_list) for _ in range(num_patients)]
 
 # Tạo dataframe
 data = {
@@ -28,4 +36,5 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
+
 df.to_csv('output.csv', index=False, encoding='utf-8-sig')
