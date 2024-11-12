@@ -1,0 +1,201 @@
+﻿ID Bệnh nhân,Tuổi,Giới tính,Tiền sử bệnh gia đình,Số lượng bạch cầu,Mức độ đường huyết,Kết quả xét nghiệm,Triệu chứng,"Chẩn đoán bệnh (0: Không, 1: Có)"
+1,40,Nữ,Có,5375,7.8,Bất thường,Sốt,0
+2,43,Nữ,Không,8945,7.6,Bình thường,Sốt,0
+3,43,Nữ,Có,5497,6.9,Bình thường,Khó thở,0
+4,79,Nữ,Không,12666,6.7,Bất thường,Khó thở,0
+5,49,Nữ,Có,12373,6.4,Bình thường,Chán ăn,1
+6,59,Nam,Không,14630,5.5,Bất thường,Khó thở,1
+7,61,Nam,Không,13930,5.0,Bất thường,Chán ăn,0
+8,76,Nam,Có,9515,7.5,Bất thường,Mệt mỏi,1
+9,63,Nam,Có,11729,6.7,Bất thường,Mệt mỏi,1
+10,46,Nữ,Không,8290,5.5,Bất thường,Sốt,1
+11,64,Nữ,Có,6562,6.1,Bất thường,Ho kéo dài,0
+12,64,Nữ,Không,13652,4.6,Bình thường,Đau ngực,1
+13,52,Nam,Có,8123,6.5,Bình thường,Đau ngực,1
+14,41,Nữ,Không,6838,5.8,Bất thường,Chán ăn,0
+15,78,Nữ,Có,14660,6.3,Bình thường,Giảm cân,1
+16,79,Nữ,Có,11959,5.0,Bình thường,Ho kéo dài,1
+17,63,Nữ,Có,9736,6.0,Bất thường,Mệt mỏi,1
+18,64,Nữ,Có,8466,7.7,Bình thường,Mệt mỏi,1
+19,57,Nữ,Không,9043,4.5,Bất thường,Khó thở,0
+20,77,Nữ,Không,11029,7.9,Bất thường,Ho kéo dài,1
+21,65,Nam,Có,9702,6.9,Bình thường,Ho kéo dài,0
+22,53,Nam,Không,10638,4.8,Bất thường,Mệt mỏi,1
+23,48,Nam,Có,12853,5.5,Bất thường,Ho kéo dài,1
+24,49,Nam,Không,10534,6.4,Bất thường,Khó thở,1
+25,60,Nữ,Không,11310,7.0,Bất thường,Khó thở,1
+26,56,Nữ,Có,7987,5.9,Bình thường,Sốt,1
+27,45,Nam,Không,9690,5.3,Bất thường,Mệt mỏi,0
+28,55,Nữ,Có,8292,6.1,Bình thường,Mệt mỏi,0
+29,40,Nam,Có,7881,7.9,Bất thường,Ho kéo dài,0
+30,58,Nam,Có,10801,7.4,Bình thường,Sốt,1
+31,75,Nữ,Có,12282,7.7,Bình thường,Ho kéo dài,0
+32,64,Nam,Có,13526,6.8,Bất thường,Sốt,1
+33,69,Nữ,Không,13933,6.0,Bình thường,Sốt,0
+34,59,Nam,Không,14435,6.9,Bất thường,Sốt,0
+35,59,Nữ,Có,13292,6.8,Bất thường,Đau ngực,0
+36,54,Nam,Có,7463,4.6,Bình thường,Ho kéo dài,1
+37,79,Nam,Có,12676,7.7,Bình thường,Chán ăn,0
+38,72,Nam,Có,13366,6.4,Bình thường,Ho kéo dài,1
+39,41,Nam,Không,13797,8.0,Bình thường,Giảm cân,0
+40,49,Nữ,Không,12794,5.8,Bất thường,Sốt,1
+41,72,Nữ,Có,8745,7.3,Bình thường,Mệt mỏi,1
+42,71,Nữ,Có,9876,6.1,Bất thường,Ho kéo dài,1
+43,50,Nam,Không,8808,7.4,Bình thường,Giảm cân,1
+44,63,Nữ,Có,14961,6.4,Bình thường,Ho kéo dài,1
+45,75,Nam,Không,14040,7.6,Bất thường,Mệt mỏi,1
+46,51,Nữ,Không,14282,7.6,Bình thường,Đau ngực,1
+47,68,Nam,Không,10576,5.6,Bất thường,Sốt,1
+48,74,Nam,Không,7173,5.9,Bình thường,Chán ăn,1
+49,40,Nam,Không,14354,6.4,Bình thường,Sốt,1
+50,40,Nam,Không,9720,6.7,Bất thường,Chán ăn,0
+51,76,Nữ,Không,11874,5.8,Bất thường,Khó thở,1
+52,45,Nữ,Không,6179,6.4,Bất thường,Mệt mỏi,0
+53,78,Nữ,Không,13888,4.9,Bất thường,Mệt mỏi,0
+54,57,Nam,Không,12288,6.9,Bất thường,Giảm cân,1
+55,55,Nữ,Không,7496,5.5,Bất thường,Giảm cân,0
+56,44,Nam,Có,7757,4.7,Bất thường,Giảm cân,1
+57,71,Nam,Có,12458,4.9,Bình thường,Đau ngực,1
+58,41,Nữ,Không,9047,4.9,Bất thường,Giảm cân,0
+59,41,Nữ,Không,7051,5.6,Bình thường,Mệt mỏi,1
+60,79,Nữ,Không,11844,5.4,Bình thường,Giảm cân,0
+61,75,Nam,Không,8310,6.5,Bất thường,Ho kéo dài,0
+62,78,Nữ,Có,12845,7.7,Bình thường,Chán ăn,0
+63,51,Nữ,Có,6747,6.5,Bình thường,Ho kéo dài,0
+64,58,Nam,Không,12828,6.6,Bất thường,Khó thở,1
+65,67,Nữ,Có,14094,5.3,Bình thường,Ho kéo dài,1
+66,40,Nam,Có,8868,6.5,Bất thường,Khó thở,1
+67,54,Nữ,Không,9723,5.0,Bình thường,Chán ăn,0
+68,75,Nữ,Có,9998,5.7,Bình thường,Ho kéo dài,1
+69,52,Nam,Không,9930,6.7,Bất thường,Chán ăn,0
+70,60,Nam,Có,5604,5.8,Bình thường,Đau ngực,0
+71,51,Nữ,Không,13156,7.7,Bình thường,Khó thở,0
+72,44,Nữ,Có,8686,7.6,Bất thường,Chán ăn,0
+73,46,Nam,Có,14061,6.0,Bất thường,Ho kéo dài,0
+74,44,Nữ,Không,8451,6.3,Bình thường,Khó thở,0
+75,43,Nữ,Có,8781,6.2,Bình thường,Chán ăn,1
+76,52,Nữ,Có,14545,5.1,Bất thường,Sốt,1
+77,76,Nữ,Có,5100,6.0,Bình thường,Khó thở,1
+78,54,Nữ,Có,9790,5.2,Bất thường,Ho kéo dài,0
+79,55,Nữ,Có,14037,7.0,Bất thường,Mệt mỏi,0
+80,60,Nam,Không,11037,6.3,Bình thường,Giảm cân,1
+81,75,Nam,Có,10627,5.6,Bất thường,Khó thở,1
+82,63,Nữ,Không,13863,4.5,Bất thường,Sốt,1
+83,55,Nam,Có,8665,6.6,Bình thường,Khó thở,0
+84,53,Nữ,Có,8107,6.8,Bất thường,Khó thở,1
+85,61,Nam,Không,13429,4.5,Bình thường,Giảm cân,1
+86,45,Nam,Không,11910,7.9,Bình thường,Sốt,0
+87,75,Nữ,Không,14497,6.8,Bình thường,Khó thở,0
+88,40,Nữ,Không,5021,5.5,Bất thường,Chán ăn,1
+89,71,Nữ,Có,11573,5.2,Bình thường,Khó thở,1
+90,45,Nữ,Có,6253,7.7,Bình thường,Ho kéo dài,0
+91,70,Nữ,Không,11102,5.6,Bình thường,Mệt mỏi,0
+92,40,Nam,Có,13592,5.9,Bình thường,Sốt,0
+93,76,Nữ,Không,14198,6.7,Bất thường,Đau ngực,0
+94,74,Nữ,Không,8191,7.6,Bất thường,Đau ngực,1
+95,69,Nữ,Không,14893,6.0,Bình thường,Sốt,1
+96,43,Nam,Không,13063,7.7,Bất thường,Giảm cân,1
+97,74,Nam,Có,6734,6.6,Bất thường,Sốt,1
+98,53,Nữ,Có,11540,6.0,Bất thường,Sốt,1
+99,79,Nữ,Không,8418,6.6,Bình thường,Đau ngực,0
+100,61,Nam,Có,13778,5.7,Bất thường,Mệt mỏi,0
+101,49,Nữ,Có,10046,6.8,Bất thường,Đau ngực,1
+102,40,Nữ,Không,12246,6.8,Bất thường,Mệt mỏi,0
+103,50,Nữ,Không,14022,7.4,Bất thường,Mệt mỏi,1
+104,63,Nam,Không,14800,5.9,Bất thường,Ho kéo dài,1
+105,42,Nam,Có,8205,4.6,Bình thường,Đau ngực,1
+106,74,Nam,Có,10290,7.9,Bất thường,Khó thở,1
+107,75,Nữ,Có,9547,6.1,Bất thường,Sốt,0
+108,70,Nam,Không,11282,7.8,Bình thường,Giảm cân,1
+109,43,Nam,Không,9850,6.9,Bình thường,Khó thở,1
+110,58,Nam,Có,6337,5.4,Bình thường,Đau ngực,1
+111,75,Nam,Không,8547,6.5,Bình thường,Đau ngực,0
+112,60,Nam,Có,5387,7.8,Bất thường,Khó thở,1
+113,57,Nam,Có,10245,4.9,Bất thường,Ho kéo dài,0
+114,67,Nữ,Có,8922,5.5,Bất thường,Đau ngực,0
+115,54,Nữ,Không,6221,4.8,Bất thường,Ho kéo dài,1
+116,41,Nữ,Không,6924,7.2,Bất thường,Chán ăn,0
+117,76,Nam,Có,12185,4.6,Bình thường,Sốt,0
+118,50,Nam,Không,13901,5.0,Bất thường,Sốt,1
+119,62,Nữ,Có,13639,5.4,Bình thường,Giảm cân,1
+120,51,Nữ,Không,5350,7.5,Bình thường,Đau ngực,0
+121,42,Nữ,Có,13856,5.1,Bình thường,Khó thở,1
+122,56,Nam,Có,8715,6.0,Bất thường,Ho kéo dài,0
+123,72,Nữ,Không,13616,5.6,Bất thường,Giảm cân,1
+124,40,Nam,Có,9260,6.5,Bình thường,Mệt mỏi,1
+125,78,Nữ,Có,12738,7.8,Bình thường,Giảm cân,1
+126,59,Nam,Có,14393,7.8,Bình thường,Ho kéo dài,0
+127,53,Nữ,Có,8511,4.7,Bình thường,Đau ngực,0
+128,70,Nữ,Có,5673,6.6,Bình thường,Đau ngực,0
+129,64,Nữ,Không,6938,7.6,Bình thường,Mệt mỏi,1
+130,42,Nam,Không,13033,7.2,Bất thường,Chán ăn,0
+131,43,Nữ,Không,13945,5.2,Bình thường,Ho kéo dài,1
+132,70,Nam,Không,12303,7.2,Bình thường,Đau ngực,1
+133,74,Nam,Không,6973,5.2,Bình thường,Đau ngực,0
+134,53,Nữ,Không,13529,7.6,Bình thường,Ho kéo dài,1
+135,48,Nam,Không,10277,4.5,Bình thường,Giảm cân,0
+136,59,Nữ,Không,12970,4.8,Bất thường,Sốt,1
+137,71,Nam,Có,5115,6.7,Bình thường,Khó thở,0
+138,48,Nam,Có,10719,5.8,Bất thường,Giảm cân,1
+139,66,Nữ,Có,13043,4.8,Bình thường,Ho kéo dài,1
+140,42,Nam,Có,13169,7.9,Bình thường,Sốt,0
+141,43,Nam,Không,10696,7.6,Bất thường,Chán ăn,0
+142,54,Nam,Không,8404,5.4,Bình thường,Giảm cân,1
+143,72,Nam,Không,9242,6.2,Bất thường,Đau ngực,0
+144,44,Nam,Không,7820,6.2,Bất thường,Sốt,1
+145,43,Nam,Có,6799,6.3,Bất thường,Sốt,1
+146,51,Nam,Không,7691,7.9,Bất thường,Ho kéo dài,1
+147,62,Nam,Có,14264,4.8,Bất thường,Đau ngực,1
+148,53,Nam,Có,11437,4.6,Bất thường,Đau ngực,1
+149,51,Nữ,Không,14709,6.2,Bình thường,Đau ngực,0
+150,56,Nam,Không,14776,6.1,Bất thường,Sốt,0
+151,64,Nữ,Không,11253,5.3,Bình thường,Giảm cân,0
+152,69,Nữ,Có,9078,4.7,Bình thường,Khó thở,1
+153,61,Nam,Không,10405,4.9,Bất thường,Mệt mỏi,0
+154,65,Nữ,Không,9611,7.5,Bất thường,Khó thở,0
+155,56,Nữ,Không,13266,5.9,Bất thường,Mệt mỏi,0
+156,59,Nữ,Có,11634,5.8,Bình thường,Ho kéo dài,1
+157,73,Nam,Không,11007,4.6,Bất thường,Khó thở,0
+158,72,Nam,Không,8604,5.8,Bất thường,Sốt,0
+159,76,Nữ,Không,8280,6.8,Bình thường,Mệt mỏi,0
+160,46,Nữ,Không,10162,6.7,Bất thường,Đau ngực,1
+161,61,Nữ,Không,10618,7.7,Bình thường,Ho kéo dài,0
+162,71,Nữ,Có,5028,6.9,Bất thường,Khó thở,1
+163,53,Nam,Có,6434,5.6,Bình thường,Giảm cân,1
+164,47,Nữ,Không,7903,5.6,Bất thường,Ho kéo dài,0
+165,64,Nam,Có,8252,7.4,Bình thường,Chán ăn,1
+166,55,Nữ,Có,11448,7.2,Bất thường,Đau ngực,0
+167,58,Nam,Có,14830,5.5,Bất thường,Đau ngực,1
+168,55,Nam,Không,13969,7.0,Bình thường,Sốt,0
+169,51,Nam,Có,12426,6.5,Bất thường,Đau ngực,0
+170,78,Nam,Không,14077,5.9,Bất thường,Mệt mỏi,1
+171,69,Nữ,Có,5612,6.4,Bình thường,Khó thở,0
+172,41,Nữ,Không,9186,4.8,Bình thường,Ho kéo dài,1
+173,71,Nữ,Có,14284,6.8,Bất thường,Khó thở,0
+174,64,Nữ,Không,13809,4.6,Bình thường,Chán ăn,1
+175,64,Nữ,Không,14738,7.6,Bất thường,Sốt,1
+176,43,Nam,Có,9108,6.9,Bất thường,Khó thở,1
+177,58,Nữ,Không,10736,7.6,Bình thường,Chán ăn,1
+178,43,Nam,Có,9263,4.5,Bình thường,Mệt mỏi,1
+179,52,Nữ,Có,14120,7.8,Bất thường,Mệt mỏi,0
+180,78,Nam,Có,14594,7.9,Bình thường,Đau ngực,0
+181,75,Nữ,Không,14114,7.3,Bất thường,Khó thở,1
+182,62,Nam,Có,5099,8.0,Bình thường,Sốt,0
+183,45,Nữ,Không,12385,5.7,Bất thường,Mệt mỏi,0
+184,63,Nữ,Có,7354,7.5,Bất thường,Sốt,1
+185,72,Nam,Không,10908,7.2,Bất thường,Đau ngực,1
+186,51,Nam,Không,6608,7.0,Bất thường,Ho kéo dài,1
+187,60,Nam,Có,10394,6.7,Bất thường,Mệt mỏi,1
+188,50,Nữ,Không,14112,5.6,Bất thường,Mệt mỏi,0
+189,77,Nữ,Không,12719,6.4,Bất thường,Ho kéo dài,0
+190,68,Nữ,Có,5284,5.5,Bình thường,Ho kéo dài,1
+191,42,Nam,Không,5000,4.5,Bình thường,Mệt mỏi,0
+192,67,Nam,Không,9803,4.6,Bình thường,Chán ăn,0
+193,59,Nữ,Không,10851,5.0,Bất thường,Ho kéo dài,1
+194,65,Nam,Không,7963,6.3,Bình thường,Ho kéo dài,0
+195,63,Nam,Không,14378,5.3,Bình thường,Đau ngực,0
+196,60,Nữ,Có,7098,5.8,Bình thường,Mệt mỏi,1
+197,69,Nam,Có,9966,4.7,Bình thường,Ho kéo dài,0
+198,43,Nam,Không,7068,7.7,Bất thường,Đau ngực,0
+199,75,Nam,Không,11827,7.6,Bất thường,Mệt mỏi,0
+200,79,Nữ,Không,10604,7.6,Bình thường,Mệt mỏi,1
